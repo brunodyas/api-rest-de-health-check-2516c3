@@ -1,3 +1,3 @@
 # Notas
 
-Endpoint GET /metrics com contadores em memória e timestamp — experiência de observabilidade mínima.
+Utilitário que combina dois JSON com regras simples (deep merge superficial).
