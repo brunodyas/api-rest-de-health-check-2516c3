@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\a
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\api_rest_de_health_check_2516c3.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\api_rest_de_health_check_2516c3.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\api_rest_de_health_check_2516c3.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\bin\Debug\net8.0\api_rest_de_health_check_2516c3.exe
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\bin\Debug\net8.0\api_rest_de_health_check_2516c3.deps.json
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\bin\Debug\net8.0\api_rest_de_health_check_2516c3.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\bin\Debug\net8.0\api_rest_de_health_check_2516c3.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\bin\Debug\net8.0\api_rest_de_health_check_2516c3.pdb
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\api_rest_de_health_check_2516c3.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\refint\api_rest_de_health_check_2516c3.dll
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\api_rest_de_health_check_2516c3.pdb
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\api_rest_de_health_check_2516c3.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\api-rest-de-health-check-2516c3\obj\Debug\net8.0\ref\api_rest_de_health_check_2516c3.dll
